@@ -1,4 +1,6 @@
-![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvZbhWCJWcjCm-WXj6_z6OYEa7MI2rO7KYTw&s)
+<div align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvZbhWCJWcjCm-WXj6_z6OYEa7MI2rO7KYTw&s" alt="logo">
+</div>
 <h1 align="center">Hi 👋, I'm Aashutosh Tripathy</h1>
 <h3 align="center">A Software developer from India</h3>
 
