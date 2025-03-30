@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvZbhWCJWcjCm-WXj6_z6OYEa7MI2rO7KYTw&s" alt="logo">
 </div>
 <h1 align="center">Hi 👋, I'm Aashutosh Tripathy</h1>
@@ -38,3 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashutoshtripathy&show_icons=true&locale=en" alt="aashutoshtripathy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashutoshtripathy&" alt="aashutoshtripathy" /></p>
+-->
